@@ -13,6 +13,15 @@
       "contributions": [
         "ideas"
       ]
+    },
+    {
+      "login": "drpaneas",
+      "name": "Panagiotis Georgiadis",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/2141732?v=4",
+      "profile": "https://panosgeorgiadis.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
